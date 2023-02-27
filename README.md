@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: She/Her
 
-![larismaol GitHub stats](https://github-readme-stats.vercel.app/api?username=larismaol&show_icons=true&theme=dark)
+![larismaol GitHub stats](https://github-readme-stats.vercel.app/api?username=larismaol&show_icons=true&theme=radical)
 </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larismaol&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larismaol&layout=compact&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
