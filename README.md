@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://github.com/larismaol">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larismaol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larismaol&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larismaol&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larismaol&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 ## Tecnologias e Ferramentas
